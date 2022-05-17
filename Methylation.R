@@ -1,3 +1,7 @@
+###########################
+# Author: Vi Dam
+# Version: 2019 01 15
+###########################
 #In Unix,
 #conda install -c r r-data.table
 #In R:

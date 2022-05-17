@@ -13,8 +13,7 @@ The output table includes cg ID, gene symbol, p value, log2 fold change value , 
 Three output plots including Beta Density Plot, Mean Values By Condition Plot, significant genes plot will be produced. 
 
 # RESULT of HSNC cancer
-![This is significant genes between NB and PW](outputs/HSNC.png | width=400px)
-<img src="outputs/HSNC.png" width="100" height="100">
+<img src="outputs/HSNC.png" width="400" height="400">
 ![Beta density](outputs/BetaDensity.png)
 
 ![survival analysis](outputs/survival_pos_vs_neg_W.pdf)

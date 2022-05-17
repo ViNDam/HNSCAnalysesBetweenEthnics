@@ -10,7 +10,7 @@ This code helps identify the differences in methylation and expression between e
 Methylation.R
 
 The output table includes cg ID, gene symbol, p value, log2 fold change value , and significant status will be created for each group. 
-Three output plots including Beta Density Plot, Mean Values By Condition Plot, significant genes plot will be produced. 
+Output plots such as significant genes plot , survival analysis plot, enrichment pathway plot, Beta Density Plot, Mean Values By Condition Plot will be produced. 
 
 # RESULT of HSNC cancer
 <img src="outputs/HSNC.png" width="400" height="400">

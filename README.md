@@ -14,7 +14,7 @@ Three output plots including Beta Density Plot, Mean Values By Condition Plot, s
 
 # RESULT of HSNC cancer
 ![This is significant genes between NB and PW](outputs/HSNC.png | width=400px)
-
+<img src="outputs/HSNC.png" width="100" height="100">
 ![Beta density](outputs/BetaDensity.png)
 
 ![survival analysis](outputs/survival_pos_vs_neg_W.pdf)

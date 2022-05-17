@@ -17,11 +17,11 @@ Three output plots including Beta Density Plot, Mean Values By Condition Plot, s
 
 <img src="outputs/BetaDensity.png" width="400" height="400">
 
-<img src="outputs/survival_pos_vs_neg_W.pdf" width="400" height="400">
+<img src="outputs/survival_pos_vs_neg_W.png" width="400" height="400">
 
-<img src="outputs/Enrichment pathway PW.pdf" width="400" height="400">
+<img src="outputs/Enrichment pathway PW.png" width="400" height="400">
 
-<img src="outputs/Mutational_burden.pdf" width="400" height="400">
+<img src="outputs/Mutational_burden.png" width="400" height="400">
 
 
 

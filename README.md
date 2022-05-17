@@ -14,13 +14,14 @@ Three output plots including Beta Density Plot, Mean Values By Condition Plot, s
 
 # RESULT of HSNC cancer
 <img src="outputs/HSNC.png" width="400" height="400">
-![Beta density](outputs/BetaDensity.png)
 
-![survival analysis](outputs/survival_pos_vs_neg_W.pdf)
+<img src="outputs/BetaDensity.png" width="400" height="400">
 
-![survival analysis](outputs/Enrichment pathway PW.pdf)
+<img src="outputs/survival_pos_vs_neg_W.pdf" width="400" height="400">
 
-![Mutational burden](outputs/Mutational_burden.pdf)
+<img src="outputs/Enrichment pathway PW.pdf" width="400" height="400">
+
+<img src="outputs/Mutational_burden.pdf" width="400" height="400">
 
 
 

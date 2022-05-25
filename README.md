@@ -17,15 +17,19 @@ The output table includes cg ID, gene symbol, p value, log2 fold change value , 
 Output plots such as significant genes plot , survival analysis plot, enrichment pathway plot, Beta Density Plot, Mean Values By Condition Plot will be produced. 
 
 # RESULT of HSNC cancer
-<img src="outputs/HSNC.png" width="400" height="400">
 
+## Beta Density plot of Methylation 
 <img src="outputs/BetaDensity.png" width="400" height="400">
 
+## Survival analysis between Ethnics
 <img src="outputs/survival_pos_vs_neg_W.png" width="400" height="400">
 
+## Biological Pathway Enrichment 
 <img src="outputs/Enrichment pathway PW.png" width="400" height="400">
 
+## Mutational Differences between Ethnics 
 <img src="outputs/Mutational_burden.png" width="400" height="400">
 
-
+## The transcripts that are identified as significantly influencing the gene expression
+<img src="outputs/HSNC.png" width="400" height="400">
 
